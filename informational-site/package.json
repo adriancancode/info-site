@@ -1,0 +1,13 @@
+{
+    "name": "informational-site",
+    "version": "1.0.0",
+    "description": "Basic informational site using Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "node index.js"
+    },
+    "keywords": ["node", "html", "server"],
+    "author": "Adrian Vazquez",
+    "license": "MIT"
+  }
